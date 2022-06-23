@@ -8,6 +8,8 @@ categories:
   - "cms"
 tags:
   - "design"
+  - "tag1"
+  - "tag2"
 slug: "why-contentrain-is-the-best-cms"
 author:
   updatedAt: 1649418916957
